@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhaswat</h1>
 <h3 align="center">A passionate programmer from India.</h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **xbhaswat@gmail.com**
 
