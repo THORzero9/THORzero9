@@ -2,10 +2,7 @@
 
 ### Android Developer crafting performant, user-centric apps with Kotlin & Jetpack Compose.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bhaswatgogoi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaswatgogoi" height="30" width="40" /></a>
-  <a href="mailto:xbhaswat@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="xbhaswat@gmail.com" height="30" width="40" /></a>
-</p>
+
 
 ---
 
