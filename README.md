@@ -1,29 +1,50 @@
 # Hi, I'm Bhaswat 👋
+### 🤖 Android Developer crafting apps with Kotlin & Jetpack Compose
 
-### Android Developer crafting performant, user-centric apps with Kotlin & Jetpack Compose.
-
-
-
----
-
-## Featured Projects
-
-| Project                                                      | Description                                               | Key Technologies                            | Link                                                           |
-| ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------- |
-| 🚀 **Aura Agentic App** | AI-powered learning platform using the Gemini API.        | Kotlin, Jetpack Compose, Python, GCP, Gemini | [GitHub](https://github.com/THORzero9/aura-agentic-app)   |
-| 🍏 **Fresh Save** | Food wastage reduction app with smart inventory.          | Kotlin, Jetpack Compose, Appwrite, Koin     | [GitHub](https://github.com/THORzero9)                           |
-| 🛠️ **Toolshare App** | P2P tool-sharing platform with a Node.js backend.         | Jetpack Compose, Node.js, MongoDB           | [GitHub](https://github.com/THORzero9)                        |
-
+Passionate about building performant Android experiences. Currently seeking **entry-level Android development opportunities** and exploring **AI integration** in mobile apps.
 
 ---
 
-## My Tech Stack
+## 🛠️ Currently Exploring
+- 🤖 **Gemini AI** integration in Android apps
+- 📱 Advanced **Jetpack Compose** patterns  
+- ☁️ **Cloud-native** Android architectures
 
-<p align="left">
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_Studio_Icon_2023.svg/2048px-Android_Studio_Icon_2023.svg.png" alt="android-studio" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+---
+
+## 🎯 Featured Projects
+
+### 🚀 Aura Agentic App
+AI-powered learning platform with conversational experiences  
+**Stack**: Kotlin, Jetpack Compose, Gemini API, GCP  
+[View Project →](https://github.com/THORzero9/aura-agentic-app)
+
+### 🍏 Fresh Save
+Smart inventory management to reduce food waste  
+**Stack**: Kotlin, Jetpack Compose, Appwrite, Koin  
+[View Project →](https://github.com/THORzero9)
+
+### 🛠️ Toolshare App  
+P2P tool sharing platform with real-time features  
+**Stack**: Jetpack Compose, Node.js, MongoDB  
+[View Project →](https://github.com/THORzero9)
+
+---
+
+## 💻 Android Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=flat&logo=android&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 📫 Let's Connect
+**Email**: xbhaswat@gmail.com  
+**LinkedIn**: [Connect with me](https://www.linkedin.com/in/bhaswatgogoi/)
+
+---
+*🌱 Always learning, always building. Open to Android development opportunities.*
