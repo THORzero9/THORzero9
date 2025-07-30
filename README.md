@@ -22,12 +22,12 @@ AI-powered learning platform with conversational experiences
 ### 🍏 Fresh Save
 Smart inventory management to reduce food waste  
 **Stack**: Kotlin, Jetpack Compose, Appwrite, Koin  
-[View Project →](https://github.com/THORzero9)
+[View Project →](https://github.com/THORzero9/toolshare)
 
 ### 🛠️ Toolshare App  
 P2P tool sharing platform with real-time features  
 **Stack**: Jetpack Compose, Node.js, MongoDB  
-[View Project →](https://github.com/THORzero9)
+[View Project →](https://github.com/THORzero9/Fresh_Save)
 
 ---
 
