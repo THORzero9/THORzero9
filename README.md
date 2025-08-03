@@ -1,5 +1,5 @@
 # Hi, I'm Bhaswat 👋
-### Android Developer crafting apps with Kotlin & Jetpack Compose
+## Android Developer crafting apps with Kotlin & Jetpack Compose
 
 Passionate about building performant Android experiences. Currently seeking **entry-level Android development opportunities** and exploring **AI integration** in mobile apps.
 
