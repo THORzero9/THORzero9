@@ -2,10 +2,7 @@
 ## 📱 Android Developer crafting apps with Kotlin & Jetpack Compose
 
 
----
-
 ## 🛠️ Currently Exploring
-- 🤖 **Gemini AI** integration in Android apps
 - 📱 Advanced **Jetpack Compose** patterns  
 - ☁️ **Cloud-native** Android architectures
 
