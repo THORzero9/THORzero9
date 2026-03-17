@@ -1,7 +1,6 @@
 # Hi, I'm Bhaswat 👋
 ## 📱 Android Developer crafting apps with Kotlin & Jetpack Compose
 
-Passionate about building performant Android experiences. Currently seeking **entry-level Android development opportunities** and exploring **AI integration** in mobile apps.
 
 ---
 
@@ -10,26 +9,7 @@ Passionate about building performant Android experiences. Currently seeking **en
 - 📱 Advanced **Jetpack Compose** patterns  
 - ☁️ **Cloud-native** Android architectures
 
----
 
-## 🎯 Featured Projects
-
-### 🚀 Aura Agentic App
-AI-powered learning platform with conversational experiences  
-**Stack**: Kotlin, Jetpack Compose, Gemini API, GCP  
-[View Project →](https://github.com/THORzero9/aura-agentic-app)
-
-### 🍏 Fresh Save
-Smart inventory management to reduce food waste  
-**Stack**: Kotlin, Jetpack Compose, Appwrite, Koin  
-[View Project →](https://github.com/THORzero9/toolshare)
-
-### 🛠️ Toolshare App  
-P2P tool sharing platform with real-time features  
-**Stack**: Jetpack Compose, Node.js, MongoDB  
-[View Project →](https://github.com/THORzero9/Fresh_Save)
-
----
 
 ## 💻 Android Tech Stack
 
